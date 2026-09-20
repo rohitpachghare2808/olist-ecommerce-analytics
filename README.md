@@ -101,7 +101,7 @@ sql/            → all 15 SQL queries, commented
 scripts/        → Python script used to load the CSVs into SQLite
 screenshots/    → dashboard page screenshots
 ```
-Power BI file (`.pbix`) available on request — not included here due to file size.
+📊 [olist_dashboard.pbix](https://bkbirlaschoolkalyan-my.sharepoint.com/:u:/g/personal/mayank_3806_birlaschoolkalyan_com/IQDsaHO4aUOWQboDh-UsXIAcARxI5mAB1rJEaYPON5zSMoc?e=Xmb5HP)
 
 ## Installation
 
