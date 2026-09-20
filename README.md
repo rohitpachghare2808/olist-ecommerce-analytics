@@ -35,7 +35,7 @@ Stores:
 ### 3. Data Analysis
 SQL queries covering cleaning, revenue, delivery, and customer analysis.
 - CTEs (Common Table Expressions)
-- Window functions: `LAG()`, `RANK() OVER (PARTITION BY ...)`, running `SUM()`
+- Window functions: `LAG()`, `RANK() OVER (PARTITION BY .....)`, running `SUM()`
 - Multi-table joins (up to 4 tables per query)
 
 ### 4. Visualization
