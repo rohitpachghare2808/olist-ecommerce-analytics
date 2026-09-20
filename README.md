@@ -150,4 +150,4 @@ Customers
 Rohit Kailas Pachghare
 B.E. Artificial Intelligence & Data Science
 
-📧 Email 🔗 LinkedIn 💻 GitHub
+📧 [Email](mailto:rohitpachghare2808@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-rohit-pachghare-85118832b) | 💻 [GitHub](https://github.com/rohitpachghare2808)
