@@ -4,7 +4,7 @@ A SQL + Power BI project analyzing ~100,000 orders from Olist, a Brazilian e-com
 ## Introduction
 
 ### Problem
-E-commerce marketplaces generate massive amounts of transactional data — orders, payments, reviews, delivery logs — but this data is only useful if it's cleaned, queried, and turned into clear business insight. Without proper analysis, businesses can't tell which categories or regions are actually profitable, or whether operational issues like delivery delays are costing them customer trust.
+E-commerce marketplaces generate massive amounts of transactional data-orders, payments, reviews, delivery logs- but this data is only useful if it's cleaned, queried, and turned into clear business insight. Without proper analysis, businesses can't tell which categories or regions are actually profitable, or whether operational issues like delivery delays are costing them customer trust.
 
 ### Solution
 This project cleans and analyzes Olist's public e-commerce dataset end-to-end using SQL, then visualizes the findings in an interactive Power BI dashboard. It answers a specific business question: which product categories and seller states drive revenue, and where is the business losing customers to late delivery?
